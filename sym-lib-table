@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NXP_Radio")(type "KiCad")(uri "${KIPRJMOD}/NXP_Radio.kicad_sym")(options "")(descr ""))
+)
